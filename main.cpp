@@ -52,7 +52,12 @@ public:
     void addReader(const Reader &reader) { readers.push_back(reader); }
 };
 
+int pluss(int a, int b) {
+    return a + b;
+}
+
 int main() {
+    cout << pluss(2, 2);
     srand(time(0));
     Library library;
     library.addBook(Book("1984", "Джордж Оруэлл", "Антиутопия"));
