@@ -52,6 +52,10 @@ public:
     void addReader(const Reader &reader) { readers.push_back(reader); }
 };
 
+int plus(int a, int b) {
+    return a + b;
+}
+
 int main() {
     srand(time(0));
     Library library;

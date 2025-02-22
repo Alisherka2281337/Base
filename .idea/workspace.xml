@@ -38,7 +38,7 @@
     <branch-grouping />
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="huhii" />
+        <entry key="$PROJECT_DIR$" value="master" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -50,12 +50,12 @@
     &quot;assignee&quot;: &quot;Alisherka2281337&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/Alisherka2281337/Baseeeee.git&quot;,
-    &quot;accountId&quot;: &quot;41ef0c2d-8c57-4196-8f6f-14912d498e9a&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Alisherka2281337/Base.git",
+    "accountId": "41ef0c2d-8c57-4196-8f6f-14912d498e9a"
   }
-}</component>
+}]]></component>
   <component name="HighlightingSettingsPerFile">
     <setting file="mock:///Users/alisher/CLionProjects/Base/cmake-build-debug/Math.cpp" root0="SKIP_HIGHLIGHTING" />
     <setting file="mock:///Users/alisher/CLionProjects/Base/cmake-build-debug/Math.cpp" root0="SKIP_HIGHLIGHTING" />
@@ -211,7 +211,7 @@
       <workItem from="1739900902918" duration="20000" />
       <workItem from="1739901563008" duration="3331000" />
       <workItem from="1740035495761" duration="1171000" />
-      <workItem from="1740062583472" duration="15934000" />
+      <workItem from="1740062583472" duration="16241000" />
     </task>
     <task id="LOCAL-00001" summary="База">
       <option name="closed" value="true" />
@@ -300,6 +300,17 @@
               <option name="CUSTOM_BOOLEAN_PROPERTIES">
                 <map>
                   <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="plus" />
+                      </list>
+                    </value>
+                  </entry>
                 </map>
               </option>
             </State>
